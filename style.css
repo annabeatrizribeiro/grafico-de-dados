@@ -3,7 +3,7 @@
 :root {
     --bg-color: #222831;
     --primary-color: #DDDDDD;
-    --secondary-color: #010001;
+    --secondary-color: #c300ff;
     --font: "Nunito Sans", sans-serif;
 }
 
@@ -48,12 +48,12 @@ nav a:hover {
 
 .graficos-container {
     margin: 5rem;
-    background-color: #353c69;
+    background-color: #c300ff;
 }
 
 .grafico {
     margin-top: 3rem;
-    color: #60bedb;
+    color: #bf3fe6;
 }
 
 .graficos-container__texto {
